@@ -1,0 +1,47 @@
+.padre{
+    text-align: center;
+    background-color: rgb(132, 0, 255);
+}
+button{
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 100px;
+}
+.imagenes{
+
+}
+#dos{
+    position: absolute;
+    top: 50px;
+    left: 600px;
+}
+#tres{
+    position: absolute;
+    top: 60px;
+    left: 1020px;
+}
+#cuatro{
+    position: absolute;
+    top: 105px;
+    left: 560px;
+    color: antiquewhite;
+    h1{
+        height: 50px; width: 50px;
+    }
+    
+}
+#cinco{
+    position: absolute;
+    top: 105px;
+    left: 950px;
+    color: antiquewhite;
+    h1{
+        height: 80px; width: 70px;
+        
+    }
+}
+a{
+    font-size: x-large;
+    color: antiquewhite;
+    margin: 5px;
+}
