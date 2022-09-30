@@ -3,26 +3,27 @@
     background-color: rgb(132, 0, 255);
 }
 button{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(192, 245, 0);
     height: 40px;
-    width: 100px;
+    width: 200px;
+    font-size: x-large;
 }
 .imagenes{
 
 }
 #dos{
     position: absolute;
-    top: 50px;
+    top: 60px;
     left: 600px;
 }
 #tres{
     position: absolute;
-    top: 60px;
+    top: 70px;
     left: 1020px;
 }
 #cuatro{
     position: absolute;
-    top: 105px;
+    top: 110px;
     left: 560px;
     color: antiquewhite;
     h1{
@@ -32,7 +33,7 @@ button{
 }
 #cinco{
     position: absolute;
-    top: 105px;
+    top: 110px;
     left: 950px;
     color: antiquewhite;
     h1{
@@ -44,4 +45,18 @@ a{
     font-size: x-large;
     color: antiquewhite;
     margin: 5px;
+    text-decoration: none;
+}
+.borde{
+    border: 2px solid white;
+    border-radius: 999px;
+}
+.colordiseño{
+    color: rgb(255, 255, 255);
+    border: 1px solid white;
+    width: 20%;
+    margin-left: 675px;
+}
+.boton{
+    height: 40px;
 }
